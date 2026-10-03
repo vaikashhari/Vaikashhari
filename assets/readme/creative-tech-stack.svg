@@ -1,0 +1,33 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Creative and Technical Stack</title>
+<desc id="desc">Vaikash S creative and technical focus areas.</desc>
+<rect width="1200" height="360" rx="22" fill="#090C12"/>
+<rect x="24" y="24" width="1152" height="312" rx="17" stroke="#3D4855"/>
+<text x="48" y="70" fill="#F2F5F7" font-size="28" font-family="'Segoe UI', Arial" font-weight="800">CREATIVE + TECH // TOOLKIT</text>
+<text x="48" y="98" fill="#718292" font-size="15" font-family="Consolas, monospace">DESIGN / EDIT / BUILD / SHIP</text>
+
+<g transform="translate(48 138)">
+ <rect width="248" height="142" rx="16" fill="#0C141B" stroke="#337FA7"/>
+ <text x="20" y="31" fill="#7AD9FF" font-size="14" font-family="Consolas, monospace">VISUAL</text>
+ <text x="20" y="68" fill="#FFFFFF" font-size="24" font-family="'Segoe UI', Arial" font-weight="800">CREATIVE DESIGN</text>
+ <text x="20" y="98" fill="#9EB1BC" font-size="14" font-family="'Segoe UI', Arial">Branding · Posters · UI</text>
+</g>
+<g transform="translate(326 138)">
+ <rect width="248" height="142" rx="16" fill="#101020" stroke="#6659C8"/>
+ <text x="20" y="31" fill="#CDC6FF" font-size="14" font-family="Consolas, monospace">MOTION</text>
+ <text x="20" y="68" fill="#FFFFFF" font-size="24" font-family="'Segoe UI', Arial" font-weight="800">VIDEO EDITING</text>
+ <text x="20" y="98" fill="#B0ABC8" font-size="14" font-family="'Segoe UI', Arial">Reels · Motion · Story</text>
+</g>
+<g transform="translate(604 138)">
+ <rect width="248" height="142" rx="16" fill="#0D141F" stroke="#426EBC"/>
+ <text x="20" y="31" fill="#C8D7FF" font-size="14" font-family="Consolas, monospace">WEB</text>
+ <text x="20" y="68" fill="#FFFFFF" font-size="24" font-family="'Segoe UI', Arial" font-weight="800">FRONTEND</text>
+ <text x="20" y="98" fill="#9EAAC2" font-size="14" font-family="'Segoe UI', Arial">JS · TS · React · Next.js</text>
+</g>
+<g transform="translate(882 138)">
+ <rect width="270" height="142" rx="16" fill="#0A1413" stroke="#3C8077"/>
+ <text x="20" y="31" fill="#9CE1D8" font-size="14" font-family="Consolas, monospace">SYSTEMS</text>
+ <text x="20" y="68" fill="#FFFFFF" font-size="24" font-family="'Segoe UI', Arial" font-weight="800">CLOUD + AUTOMATION</text>
+ <text x="20" y="98" fill="#9DB8B4" font-size="14" font-family="'Segoe UI', Arial">Cloudflare · Supabase · APIs</text>
+</g>
+</svg>
