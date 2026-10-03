@@ -1,68 +1,107 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:05070B,35:0B1F33,70:1155CC,100:FF4263&text=VAIKASH%20S&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=ENGINEER%20%C3%97%20CREATIVE%20DEVELOPER%20%C3%97%20DIGITAL%20BUILDER&descAlignY=57&descSize=15&animation=fadeIn" alt="Vaikash S banner"/>
+
 <div align="center">
 
-# Hi, I'm Vaikash S 👋
-
-### Engineer × Creative Developer × Digital Builder
-
-I build **web experiences, digital products, automation systems and cinematic interfaces** where engineering discipline meets creative execution.
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=58C7FF&center=true&vCenter=true&width=850&lines=Building+websites+that+feel+like+experiences.;Creative+technology+%C3%97+systems+thinking.;From+engineering+floors+to+digital+products.;Build+%E2%86%92+Test+%E2%86%92+Improve+%E2%86%92+Ship." alt="Typing introduction" />
+</a>
 
 <br/>
 
 <a href="https://vaikash-portfolio.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-ENTER%20THE%20WORK-111827?style=for-the-badge&logo=googlechrome&logoColor=58C7FF" alt="Portfolio"/>
 </a>
 <a href="https://www.instagram.com/vaikashhari/">
-  <img src="https://img.shields.io/badge/Instagram-@vaikashhari-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-@VAIKASHHARI-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:vaikash.hari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-LET'S%20BUILD-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vaikashhari&label=PROFILE+SIGNALS&style=for-the-badge&color=1f6feb" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## ⚡ About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-NAME       Vaikash S
-BASE       Tamil Nadu, India
-FOCUS      Creative Development · Web Systems · Automation · Video
-BUILDING   Creatary / Creatary Labs
-MINDSET    Build → Test → Improve → Ship
+### ⚡ CURRENT SIGNAL
+
+```yaml
+name: Vaikash S
+base: Tamil Nadu, India
+building: Creatary / Creatary Labs
+focus:
+  - Creative Development
+  - Web Systems
+  - Automation
+  - Video & Motion
+mode: Build → Test → Improve → Ship
 ```
 
-- 🛠️ Building websites, digital systems and automation-led experiences at **Creatary**
-- 🎬 Working across **creative technology, video editing and interactive storytelling**
-- ⚙️ Background in **Mechanical Engineering, production and quality operations**
-- 🧠 Interested in **AI workflows, web experiences, motion systems and useful digital products**
-- ☁️ Shipping projects using **Cloudflare, Supabase, Next.js, React and modern web tooling**
-- 🚀 I prefer **working products over vague ideas**
+</td>
+<td width="50%" valign="top">
+
+### 🧠 OPERATING SYSTEM
+
+- ⚙️ Engineering-trained problem solving
+- 🎬 Creative execution & visual storytelling
+- 🌐 Web products and interactive interfaces
+- 🤖 AI-assisted workflows & automation
+- ☁️ Cloud-first deployment and systems
+- 🚀 Shipping over endless planning
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Builds
+<div align="center">
+
+## 🚀 FEATURED BUILDS
+
+<sub>Client platforms, products and real-world systems currently live on the web.</sub>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧬 Zelora Hair & Skin Clinic
-Premium clinic website with treatment discovery, before/after storytelling, rich media, SEO and admin workflows.
 
-**Stack:** Next.js · Supabase · Cloudflare
+Premium clinic experience with treatment discovery, before/after storytelling, rich media, SEO and admin workflows.
 
-[🌐 Live Site](https://www.zeloraclinic.com/)
+<p>
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+</p>
+
+[**LAUNCH SITE ↗**](https://www.zeloraclinic.com/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💎 Fathima Jewellery
-Luxury scroll-driven jewellery experience with cinematic product presentation, motion design and conversion-focused flows.
 
-**Stack:** Web · Motion · Cloudflare
+Luxury scroll-driven jewellery showcase with cinematic product presentation, motion design and conversion-focused flows.
 
-[🌐 Live Site](https://fathima-jewellery.pages.dev/)
+<p>
+<img src="https://img.shields.io/badge/LUXURY_UI-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/MOTION-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+</p>
+
+[**LAUNCH SITE ↗**](https://fathima-jewellery.pages.dev/)
 
 </td>
 </tr>
@@ -71,21 +110,32 @@ Luxury scroll-driven jewellery experience with cinematic product presentation, m
 <td width="50%" valign="top">
 
 ### 🎓 Creatary Online
-Production course platform with Razorpay enrollment, student Class Hub, email workflows, progress tracking and certificates.
 
-**Stack:** Cloudflare · D1 · Razorpay · Resend
+Production course platform with Razorpay enrollment, private student Class Hub, email workflows, progress tracking and certificates.
 
-[🌐 Live Site](https://creatary.online/)
+<p>
+<img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/D1-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAZORPAY-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESEND-000000?style=flat-square"/>
+</p>
+
+[**LAUNCH SITE ↗**](https://creatary.online/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎞️ Creatary Presets
-Digital preset storefront with secure payments, private file delivery, expiring downloads and an admin dashboard.
 
-**Stack:** Next.js · Supabase · Razorpay
+Secure digital preset store with payments, private asset delivery, expiring download links and an admin dashboard.
 
-[🌐 Live Site](https://premiumpresets.netlify.app/)
+<p>
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAZORPAY-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+</p>
+
+[**LAUNCH SITE ↗**](https://premiumpresets.netlify.app/)
 
 </td>
 </tr>
@@ -93,85 +143,215 @@ Digital preset storefront with secure payments, private file delivery, expiring 
 
 ---
 
-## 🎬 Cinematic Web Experiments
-
-| Project | Experience | Live |
-|---|---|---|
-| **Avengers: Doomsday** | WebGL atmosphere, 3D scenes and scroll-driven cinematic sequences | [Launch ↗](https://avengers-doomsday-f28.pages.dev/) |
-| **Game of Thrones** | Scroll-scrubbed fantasy storytelling with portals and atmospheric motion | [Launch ↗](https://got-experience.pages.dev/) |
-| **Harry Potter** | Interactive Hogwarts experience with Sorting Hat and magical transitions | [Launch ↗](https://harry-potter-d1e.pages.dev/) |
-| **Batcomputer** | Tactical Batman-inspired surveillance and terminal interface | [Launch ↗](https://batman-intro.pages.dev/) |
-| **One Piece** | Frame-by-frame scroll animation, crew storytelling and responsive interactions | [Launch ↗](https://one-piece-fan.pages.dev/) |
-| **Gear 5** | Cinematic Luffy tribute with smooth scrolling and frame-sequenced animation | [Launch ↗](https://one--piece.pages.dev/) |
-| **Radhimaa** | Scroll-driven video storytelling and immersive motion design | [Launch ↗](https://radhimaa.pages.dev/) |
-
----
-
-## 🧰 Tech & Creative Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,supabase,cloudflare,git,github,figma,pr,ae&perline=8" alt="Tech Stack" />
+## 🎬 CINEMATIC LAB
+
+<sub>Experimental web experiences built around motion, interaction and scroll-driven storytelling.</sub>
 
 </div>
 
-### I work with
+<br/>
 
-**Frontend**  
-React · Next.js · Vite · HTML · CSS · JavaScript · TypeScript
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>⚡ AVENGERS</h3>
+WebGL atmosphere · 3D scenes · scroll cinema
+<br/><br/>
+<a href="https://avengers-doomsday-f28.pages.dev/"><b>LIVE ↗</b></a>
+<br/>
+<a href="https://github.com/vaikashhari/AVENGERS-DOOMSDAY">SOURCE</a>
+</td>
 
-**Motion & Interaction**  
-GSAP · ScrollTrigger · Lenis · Three.js · Frame Sequences · Scroll-driven storytelling
+<td align="center" width="33%">
+<h3>🐉 GAME OF THRONES</h3>
+Atmosphere · portals · scroll-scrubbed chapters
+<br/><br/>
+<a href="https://got-experience.pages.dev/"><b>LIVE ↗</b></a>
+<br/>
+<a href="https://github.com/vaikashhari/GOT">SOURCE</a>
+</td>
 
-**Backend & Systems**  
-Supabase · Cloudflare · D1 · APIs · Razorpay · Resend · Automation workflows
+<td align="center" width="33%">
+<h3>⚡ HARRY POTTER</h3>
+Sorting Hat · magical motion · interactive Hogwarts
+<br/><br/>
+<a href="https://harry-potter-d1e.pages.dev/"><b>LIVE ↗</b></a>
+<br/>
+<a href="https://github.com/vaikashhari/Harry-Potter">SOURCE</a>
+</td>
+</tr>
 
-**Creative**  
-Premiere Pro · After Effects · Figma · Video Editing · Motion Design
+<tr>
+<td align="center">
+<h3>🦇 BATCOMPUTER</h3>
+Gotham surveillance · terminal · tactical interface
+<br/><br/>
+<a href="https://batman-intro.pages.dev/"><b>LIVE ↗</b></a>
+<br/>
+<a href="https://github.com/vaikashhari/Batman-intro">SOURCE</a>
+</td>
+
+<td align="center">
+<h3>🏴‍☠️ ONE PIECE</h3>
+Frame scroll · crew storytelling · GSAP motion
+<br/><br/>
+<a href="https://one-piece-fan.pages.dev/"><b>LIVE ↗</b></a>
+<br/>
+<a href="https://github.com/vaikashhari/One-piece">SOURCE</a>
+</td>
+
+<td align="center">
+<h3>☁️ GEAR 5</h3>
+Frame sequences · Lenis · cinematic awakening
+<br/><br/>
+<a href="https://one--piece.pages.dev/"><b>LIVE ↗</b></a>
+<br/>
+<a href="https://github.com/vaikashhari/one-piece.">SOURCE</a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎞️ RADHIMAA
+
+Scroll-driven video storytelling · immersive motion · cinematic editorial design
+
+[**LIVE EXPERIENCE ↗**](https://radhimaa.pages.dev/) · [**SOURCE ↗**](https://github.com/vaikashhari/Radhimaa)
+
+</div>
 
 ---
 
-## 🧪 What I Like Building
+<div align="center">
 
-```js
+## 🧰 TECH + CREATIVE STACK
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,supabase,cloudflare,git,github,figma,pr,ae&perline=8" alt="Tech stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000000" alt="GSAP"/>
+<img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/SCROLLTRIGGER-101010?style=for-the-badge" alt="ScrollTrigger"/>
+<img src="https://img.shields.io/badge/LENIS-111827?style=for-the-badge" alt="Lenis"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### FRONTEND
+React  
+Next.js  
+Vite  
+JavaScript  
+TypeScript
+
+</td>
+<td width="25%" valign="top">
+
+### SYSTEMS
+Supabase  
+Cloudflare  
+D1  
+APIs  
+Automation
+
+</td>
+<td width="25%" valign="top">
+
+### INTERACTION
+GSAP  
+Three.js  
+ScrollTrigger  
+Lenis  
+Frame sequences
+
+</td>
+<td width="25%" valign="top">
+
+### CREATIVE
+Premiere Pro  
+After Effects  
+Figma  
+Video Editing  
+Motion Design
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧪 BUILD PHILOSOPHY
+
+</div>
+
+```javascript
 const vaikash = {
   engineering: ["quality", "process", "systems thinking"],
   creative: ["video editing", "motion", "visual storytelling"],
   development: ["websites", "web apps", "automation", "interactive UI"],
+
   currentDirection: "creative technology",
-  philosophy: "Make it useful. Make it memorable. Ship it."
+
+  loop() {
+    return "BUILD → TEST → IMPROVE → SHIP";
+  },
+
+  philosophy: "Make it useful. Make it memorable."
 };
 ```
 
 ---
 
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vaikashhari&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Vaikash GitHub stats" />
+## 📊 SYSTEM TELEMETRY
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaikashhari&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaikashhari&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58C7FF&text_color=C9D1D9&icon_color=FF4263" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaikashhari&layout=compact&hide_border=true&bg_color=0D1117&title_color=58C7FF&text_color=C9D1D9" alt="Top languages"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaikashhari&bg_color=0D1117&color=58C7FF&line=FF4263&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-## 🌐 Find Me
-
 <div align="center">
 
-**Portfolio** · [vaikash-portfolio.pages.dev](https://vaikash-portfolio.pages.dev/)  
-**Instagram** · [@vaikashhari](https://www.instagram.com/vaikashhari/)  
-**GitHub** · [@vaikashhari](https://github.com/vaikashhari)  
-**Email** · [vaikash.hari@gmail.com](mailto:vaikash.hari@gmail.com)
+## 🌐 OPEN CHANNELS
+
+<a href="https://vaikash-portfolio.pages.dev/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-vaikash--portfolio.pages.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=58C7FF"/>
+</a>
 
 <br/>
 
-> **Engineering discipline. Creative execution. Digital systems.**
+<a href="https://www.instagram.com/vaikashhari/">
+  <img src="https://img.shields.io/badge/Instagram-@vaikashhari-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/vaikashhari">
+  <img src="https://img.shields.io/badge/GitHub-@vaikashhari-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:vaikash.hari@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-vaikash.hari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vaikashhari&label=PROFILE+VIEWS&style=flat-square" alt="Profile views" />
+### `ENGINEERING DISCIPLINE × CREATIVE EXECUTION × DIGITAL SYSTEMS`
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF4263,45:1155CC,100:05070B" alt="Footer"/>
