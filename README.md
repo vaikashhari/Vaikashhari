@@ -320,9 +320,13 @@ const vaikash = {
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaikashhari&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58C7FF&text_color=C9D1D9&icon_color=FF4263" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaikashhari&layout=compact&hide_border=true&bg_color=0D1117&title_color=58C7FF&text_color=C9D1D9" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaikashhari&bg_color=0D1117&color=58C7FF&line=FF4263&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph"/>
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaikashhari&theme=github_dark" alt="GitHub profile details"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=vaikashhari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58C7FF&fire=FF4263&currStreakLabel=58C7FF" alt="GitHub streak"/>
 
 </div>
 
@@ -333,25 +337,29 @@ const vaikash = {
 ## 🌐 OPEN CHANNELS
 
 <a href="https://vaikash-portfolio.pages.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-vaikash--portfolio.pages.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=58C7FF"/>
-</a>
-
-<br/>
-
-<a href="https://www.instagram.com/vaikashhari/">
-  <img src="https://img.shields.io/badge/Instagram-@vaikashhari-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/vaikashhari">
-  <img src="https://img.shields.io/badge/GitHub-@vaikashhari-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:vaikash.hari@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-vaikash.hari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-vaikash--portfolio.pages.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=58C7FF" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-### `ENGINEERING DISCIPLINE × CREATIVE EXECUTION × DIGITAL SYSTEMS`
+<a href="https://www.instagram.com/vaikashhari/">
+  <img src="https://img.shields.io/badge/Instagram-@vaikashhari-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/vaikashhari">
+  <img src="https://img.shields.io/badge/GitHub-@vaikashhari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:vaikash.hari@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-vaikash.hari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br/><br/><br/>
+
+<b>ENGINEERING DISCIPLINE &nbsp;×&nbsp; CREATIVE EXECUTION &nbsp;×&nbsp; DIGITAL SYSTEMS</b>
+
+<br/><br/>
+
+<sub>BUILDING USEFUL THINGS WITH INTENT.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF4263,45:1155CC,100:05070B" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF4263,45:1155CC,100:05070B" alt="Footer"/>
