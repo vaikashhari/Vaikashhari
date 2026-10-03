@@ -1,0 +1,65 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Vaikash S — GitHub Profile Command Center</title>
+<desc id="desc">A cinematic dark storm-tech profile banner for Vaikash S and Creatary Labs.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="560"><stop stop-color="#05070B"/><stop offset=".5" stop-color="#0A1220"/><stop offset="1" stop-color="#070910"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8AEAFF"/><stop offset=".5" stop-color="#3C9EFF"/><stop offset="1" stop-color="#6C58FF"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C493FF"/><stop offset="1" stop-color="#6F54FF"/></linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#86CFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1600" height="560" rx="24" fill="url(#bg)"/>
+<rect width="1600" height="560" rx="24" fill="url(#grid)"/>
+<path d="M1120 20L1010 178L1130 204L955 548" stroke="#48BFFF" stroke-width="4" opacity=".24"/>
+<path d="M1260 20L1170 170L1288 196L1118 540" stroke="#8E6BFF" stroke-width="3" opacity=".18"/>
+
+<rect x="72" y="58" width="370" height="44" rx="10" fill="#0D1420" stroke="#3A98D8"/>
+<text x="94" y="87" fill="#DDF6FF" font-size="20" font-family="Consolas, monospace" font-weight="700">VAIKASH.OS // GITHUB PROFILE SIGNAL</text>
+
+<rect x="1300" y="58" width="228" height="44" rx="10" fill="#121020" stroke="#735CFF"/>
+<circle cx="1327" cy="80" r="7" fill="#59D8FF" filter="url(#glow)"/>
+<text x="1344" y="87" fill="#EEE9FF" font-size="19" font-family="Consolas, monospace" font-weight="700">PROFILE ONLINE</text>
+
+<text x="72" y="190" fill="#FFFFFF" font-size="78" font-family="'Segoe UI', Arial, sans-serif" font-weight="800">VAIKASH S</text>
+<text x="74" y="238" fill="#A8BDCB" font-size="27" font-family="'Segoe UI', Arial, sans-serif">Creative Designer // Video Editor // Creative Technologist</text>
+
+<g transform="translate(72 292)">
+  <rect width="502" height="116" rx="16" fill="#09131C" stroke="#2C7CAB"/>
+  <text x="22" y="31" fill="#75DCFF" font-size="16" font-family="Consolas, monospace">&gt; BUILDING :: CREATIVE TOOLS + INTERACTIVE WEB</text>
+  <text x="22" y="60" fill="#E9EFF4" font-size="16" font-family="Consolas, monospace">&gt; SHIPPING :: PORTFOLIOS + CLIENT PLATFORMS</text>
+  <text x="22" y="89" fill="#E9EFF4" font-size="16" font-family="Consolas, monospace">&gt; LAB :: CREATARY LABS</text>
+</g>
+
+<g transform="translate(606 292)">
+  <rect width="220" height="116" rx="16" fill="#0E1420" stroke="#3D92C6"/>
+  <text x="18" y="29" fill="#C5ECFF" font-size="15" font-family="Consolas, monospace">FOCUS</text>
+  <text x="18" y="66" fill="#FFFFFF" font-size="29" font-family="'Segoe UI', Arial" font-weight="800">DESIGN</text>
+  <text x="18" y="91" fill="#7891A1" font-size="13" font-family="Consolas, monospace">VISUAL SYSTEMS</text>
+</g>
+
+<g transform="translate(846 292)">
+  <rect width="220" height="116" rx="16" fill="#111020" stroke="#6A5AD6"/>
+  <text x="18" y="29" fill="#D6CEFF" font-size="15" font-family="Consolas, monospace">FOCUS</text>
+  <text x="18" y="66" fill="#FFFFFF" font-size="29" font-family="'Segoe UI', Arial" font-weight="800">MOTION</text>
+  <text x="18" y="91" fill="#8A81AE" font-size="13" font-family="Consolas, monospace">EDITING / STORY</text>
+</g>
+
+<g transform="translate(1086 292)">
+  <rect width="220" height="116" rx="16" fill="#0D1420" stroke="#4572BE"/>
+  <text x="18" y="29" fill="#C9D9FF" font-size="15" font-family="Consolas, monospace">FOCUS</text>
+  <text x="18" y="66" fill="#FFFFFF" font-size="29" font-family="'Segoe UI', Arial" font-weight="800">WEB</text>
+  <text x="18" y="91" fill="#7C8AA3" font-size="13" font-family="Consolas, monospace">INTERACTIVE BUILDS</text>
+</g>
+
+<g transform="translate(1326 292)">
+  <rect width="202" height="116" rx="16" fill="#0A1218" stroke="#2C617D"/>
+  <text x="18" y="29" fill="#A7DCF3" font-size="15" font-family="Consolas, monospace">STATUS</text>
+  <text x="18" y="66" fill="#FFFFFF" font-size="29" font-family="'Segoe UI', Arial" font-weight="800">MAKING</text>
+  <text x="18" y="91" fill="#718896" font-size="13" font-family="Consolas, monospace">IDEA → EXECUTION</text>
+</g>
+
+<path d="M72 466H660" stroke="url(#blue)" stroke-width="2" opacity=".5"/>
+<path d="M940 466H1528" stroke="url(#violet)" stroke-width="2" opacity=".5"/>
+<circle cx="800" cy="466" r="25" stroke="#408FD4"/><circle cx="800" cy="466" r="12" fill="#65D8FF" filter="url(#glow)"/>
+<text x="72" y="518" fill="#647989" font-size="15" font-family="Consolas, monospace">GITHUB + PORTFOLIO + CLIENT SYSTEMS // CREATARY LABS // 2026</text>
+</svg>
