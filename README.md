@@ -1,124 +1,120 @@
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF Â· vaikashhari</sub></p>
-<h1>Vaikash S</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Creative Developer &amp; Founder @ Creatary
- Building websites, AI-powered tools &amp; digital products
- Web â€¢ Automation â€¢ Cloud â€¢ Creative Tech
-ðŸ‡®ðŸ‡³ Tamil N</p>
-<p><strong>â— Building and sharing work in public</strong></p>
-<p><sub>Building at @creatarylabs</sub></p>
-<p><a href="https://github.com/vaikashhari">GitHub</a> &nbsp;Â·&nbsp; <a href="https://vaikash-portfolio.pages.dev/">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Vaikash S animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
-</div>
-
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer Â· JavaScript Â· HTML Â· TypeScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>4 repositories Â· 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>31 contributions Â· 2 active days</p></td>
-</tr>
-</table>
-
-<p><sub>Creative Developer &amp; Founder @ Creatary
- Building websites, AI-powered tools &amp; digital products
- Web â€¢ Automation â€¢ Cloud â€¢ Creative Tech
-ðŸ‡®ðŸ‡³ Tamil N</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>4</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>31</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Vaikash S GitHub proof metrics" />
-</picture>
+  <img src="./assets/readme/profile-header.svg" alt="Vaikash S GitHub profile command center" width="100%" />
 </p>
 
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&repos=vaikashhari%2FZelora-final%2Cvaikashhari%2FGOT%2Cvaikashhari%2FAVENGERS-DOOMSDAY%2Cvaikashhari%2Fzeloraclinic&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&repos=vaikashhari%2FZelora-final%2Cvaikashhari%2FGOT%2Cvaikashhari%2FAVENGERS-DOOMSDAY%2Cvaikashhari%2Fzeloraclinic&v=recruiter-projects-1&mode=dark" width="100%" alt="Vaikash S selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/vaikashhari/Zelora-final">Zelora-final</a></h3>
-<p>A selected public project.</p>
-<p><sub>â­ 0 Â· ðŸ´ 0</sub></p>
-<p><a href="https://github.com/vaikashhari/Zelora-final">Read the repository â†’</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/vaikashhari/GOT">GOT</a></h3><p>A selected public project.</p><p><sub>JavaScript Â· â­ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/vaikashhari/AVENGERS-DOOMSDAY">AVENGERS-DOOMSDAY</a></h3><p>A selected public project.</p><p><sub>TypeScript Â· â­ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/vaikashhari/zeloraclinic">zeloraclinic</a></h3><p>A selected public project.</p><p><sub>JavaScript Â· â­ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Vaikash S technology stack" />
-</picture>
+  <a href="https://vaikash-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-LIVE_SITE-0A1218?style=for-the-badge&labelColor=071018" alt="Live portfolio" />
+  </a>
+  <a href="https://github.com/vaikashhari">
+    <img src="https://img.shields.io/badge/GITHUB-vaikashhari-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/CREATARY-LABS-111827?style=for-the-badge" alt="Creatary Labs" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>84% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>5% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>5% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>Batchfile</strong><br /><sub>2% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=vaikashhari&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Vaikash S contribution activity" />
-</picture>
+  Creative Designer · Video Editor · Creative Technologist
 </p>
 
-<hr />
+> I build visual systems, cinematic web experiences, client platforms and creative tools. My work sits between design, editing, frontend engineering and product experimentation.
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Letâ€™s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/vaikashhari">GitHub</a><br /><a href="https://vaikash-portfolio.pages.dev/">Website</a></td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/readme/profile-divider.svg" alt="Profile divider" width="100%" />
+</p>
 
-<p align="center"><sub>Vaikash S Â· recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## ✦ CURRENT // FOCUS
+
+- Building and refining **Creatary Labs**
+- Designing premium client-facing websites and digital experiences
+- Exploring cinematic scroll interaction, WebGL and motion-heavy interfaces
+- Creating tools and systems around editing, content production and creative operations
+- Shipping practical experiments across GitHub and Cloudflare
+
+<p align="center">
+  <img src="./assets/readme/profile-divider.svg" alt="Profile divider" width="100%" />
+</p>
+
+## ✦ SELECTED // PROJECTS
+
+<p align="center">
+  <img src="./assets/readme/project-signals.svg" alt="Selected GitHub projects" width="100%" />
+</p>
+
+| Project | What it is |
+|---|---|
+| [Zelora](https://github.com/vaikashhari/Zelora-final) | Hair & skin clinic website and digital platform |
+| [Avengers: Doomsday](https://github.com/vaikashhari/AVENGERS-DOOMSDAY) | Scroll-directed cinematic web experiment |
+| [GOT Experience](https://github.com/vaikashhari/GOT) | Interactive themed web experience |
+| [Batcomputer](https://github.com/vaikashhari/Batman-intro) | Batman-inspired tactical interface |
+| [Harry Potter](https://github.com/vaikashhari/Harry-Potter) | Luxury parchment-themed experience |
+| [Preset Store](https://github.com/vaikashhari/Preset-Website) | Secure digital preset commerce platform |
+| [Portfolio](https://github.com/vaikashhari/vaikash-portfolio) | Personal cinematic portfolio and case-study site |
+
+<p align="center">
+  <img src="./assets/readme/profile-divider.svg" alt="Profile divider" width="100%" />
+</p>
+
+## ✦ CREATIVE + TECH // TOOLKIT
+
+<p align="center">
+  <img src="./assets/readme/creative-tech-stack.svg" alt="Creative and technical toolkit" width="100%" />
+</p>
+
+### Core stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GSAP-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=F38020" />
+</p>
+
+### Creative work
+
+Video editing · Motion design · Social content · Visual design · Brand systems · Interactive web
+
+<p align="center">
+  <img src="./assets/readme/profile-divider.svg" alt="Profile divider" width="100%" />
+</p>
+
+## ✦ PROFILE // SIGNAL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaikashhari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58CFFF&text_color=C9D1D9&icon_color=8B6DFF" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaikashhari&layout=compact&hide_border=true&bg_color=0D1117&title_color=58CFFF&text_color=C9D1D9" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaikashhari&bg_color=0D1117&color=8EA9BB&line=4DBEFF&point=8B6DFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="./assets/readme/profile-divider.svg" alt="Profile divider" width="100%" />
+</p>
+
+## ✦ ABOUT // VAIKASH
+
+I work across creative production and digital product building, combining visual storytelling with hands-on technical execution. My projects range from brand and client work to experimental cinematic interfaces and utility-focused web systems.
+
+For a more complete view of my work:
+
+**Portfolio:** https://vaikash-portfolio.pages.dev/
+
+<p align="center">
+  <img src="./assets/readme/profile-divider.svg" alt="Profile divider" width="100%" />
+</p>
+
+## ✦ CREDITS // PROFILE
+
+<p align="center">
+  <strong>Vaikash S</strong><br />
+  <sub>Creative Designer · Video Editor · Creative Technologist</sub><br /><br />
+  <strong>Built by Creatary Labs</strong><br />
+  <sub>Design · Edit · Build · Deploy</sub>
+</p>
