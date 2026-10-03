@@ -1,51 +1,177 @@
-## Building in public
-
 <div align="center">
 
-# Vaikash S
+# Hi, I'm Vaikash S 👋
 
-> Technical founder
+### Engineer × Creative Developer × Digital Builder
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=vaikashhari&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fu%3D764cc1f3bc65475347257f380db516d802635590%26v%3D4" alt="vaikashhari hero visual" />
-</p>
+I build **web experiences, digital products, automation systems and cinematic interfaces** where engineering discipline meets creative execution.
+
+<br/>
+
+<a href="https://vaikash-portfolio.pages.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.instagram.com/vaikashhari/">
+  <img src="https://img.shields.io/badge/Instagram-@vaikashhari-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:vaikash.hari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
-## The point of view
+---
 
-> 🎨 Creative Developer &amp; Founder @ Creatary
-⚡ Building websites, AI-powered tools &amp; digital products
-🛠️ Web • Automation • Cloud • Creative Tech
-🇮🇳 Tamil N
+## ⚡ About Me
 
-- 🏢 Working at **@creatarylabs**
-- 🌐 [Website](https://vaikash-portfolio.pages.dev/)
-- 👥 **0** followers · **4** following
+```text
+NAME       Vaikash S
+BASE       Tamil Nadu, India
+FOCUS      Creative Development · Web Systems · Automation · Video
+BUILDING   Creatary / Creatary Labs
+MINDSET    Build → Test → Improve → Ship
+```
 
-*Small, useful work over vague claims.*
+- 🛠️ Building websites, digital systems and automation-led experiences at **Creatary**
+- 🎬 Working across **creative technology, video editing and interactive storytelling**
+- ⚙️ Background in **Mechanical Engineering, production and quality operations**
+- 🧠 Interested in **AI workflows, web experiences, motion systems and useful digital products**
+- ☁️ Shipping projects using **Cloudflare, Supabase, Next.js, React and modern web tooling**
+- 🚀 I prefer **working products over vague ideas**
 
-## Products and proof
+---
+
+## 🚀 Featured Builds
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/vaikashhari/Radhimaa">Radhimaa</a></b></td><td>Cinematic interactive storytelling website with scroll-driven video scenes, motion effects and immersive visual design.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/vaikashhari/one-piece.">one-piece.</a></b></td><td>Cinematic scroll-driven One Piece tribute to Monkey D. Luffy featuring slow-motion scenes, 3D transitions, GSAP animations, Lenis smooth scrolling, and a frame-by-frame Gear 5 awakening.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/vaikashhari/One-piece">One-piece</a></b></td><td>Cinematic One Piece fan experience built with React, Vite, GSAP ScrollTrigger, frame-by-frame scroll animation, crew cards, lore sections, and responsive interactions.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/vaikashhari/Batman-intro">Batman-intro</a></b></td><td>Cinematic Batman-inspired Batcomputer interface built with React and Vite, featuring Gotham surveillance, interactive terminal commands, dossiers, motion effects, and a tactical Wayne-style UI.<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Zelora Hair & Skin Clinic
+Premium clinic website with treatment discovery, before/after storytelling, rich media, SEO and admin workflows.
+
+**Stack:** Next.js · Supabase · Cloudflare
+
+[🌐 Live Site](https://www.zeloraclinic.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💎 Fathima Jewellery
+Luxury scroll-driven jewellery experience with cinematic product presentation, motion design and conversion-focused flows.
+
+**Stack:** Web · Motion · Cloudflare
+
+[🌐 Live Site](https://fathima-jewellery.pages.dev/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Creatary Online
+Production course platform with Razorpay enrollment, student Class Hub, email workflows, progress tracking and certificates.
+
+**Stack:** Cloudflare · D1 · Razorpay · Resend
+
+[🌐 Live Site](https://creatary.online/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎞️ Creatary Presets
+Digital preset storefront with secure payments, private file delivery, expiring downloads and an admin dashboard.
+
+**Stack:** Next.js · Supabase · Razorpay
+
+[🌐 Live Site](https://premiumpresets.netlify.app/)
+
+</td>
+</tr>
 </table>
 
-## Momentum
+---
 
-<table>
-<tr><td align="center"><b>8</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>533</b><br/><sub>contributions</sub></td></tr>
-</table>
+## 🎬 Cinematic Web Experiments
 
-## Start a conversation
+| Project | Experience | Live |
+|---|---|---|
+| **Avengers: Doomsday** | WebGL atmosphere, 3D scenes and scroll-driven cinematic sequences | [Launch ↗](https://avengers-doomsday-f28.pages.dev/) |
+| **Game of Thrones** | Scroll-scrubbed fantasy storytelling with portals and atmospheric motion | [Launch ↗](https://got-experience.pages.dev/) |
+| **Harry Potter** | Interactive Hogwarts experience with Sorting Hat and magical transitions | [Launch ↗](https://harry-potter-d1e.pages.dev/) |
+| **Batcomputer** | Tactical Batman-inspired surveillance and terminal interface | [Launch ↗](https://batman-intro.pages.dev/) |
+| **One Piece** | Frame-by-frame scroll animation, crew storytelling and responsive interactions | [Launch ↗](https://one-piece-fan.pages.dev/) |
+| **Gear 5** | Cinematic Luffy tribute with smooth scrolling and frame-sequenced animation | [Launch ↗](https://one--piece.pages.dev/) |
+| **Radhimaa** | Scroll-driven video storytelling and immersive motion design | [Launch ↗](https://radhimaa.pages.dev/) |
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=vaikashhari&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F319436854%3Fu%3D764cc1f3bc65475347257f380db516d802635590%26v%3D4" alt="vaikashhari social visual" />
-</p>
+---
 
-<a href="https://github.com/vaikashhari">GitHub</a> · <a href="https://vaikash-portfolio.pages.dev/">Website</a>
+## 🧰 Tech & Creative Stack
 
-<p align="center"><sub>Vaikash S · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,supabase,cloudflare,git,github,figma,pr,ae&perline=8" alt="Tech Stack" />
+
+</div>
+
+### I work with
+
+**Frontend**  
+React · Next.js · Vite · HTML · CSS · JavaScript · TypeScript
+
+**Motion & Interaction**  
+GSAP · ScrollTrigger · Lenis · Three.js · Frame Sequences · Scroll-driven storytelling
+
+**Backend & Systems**  
+Supabase · Cloudflare · D1 · APIs · Razorpay · Resend · Automation workflows
+
+**Creative**  
+Premiere Pro · After Effects · Figma · Video Editing · Motion Design
+
+---
+
+## 🧪 What I Like Building
+
+```js
+const vaikash = {
+  engineering: ["quality", "process", "systems thinking"],
+  creative: ["video editing", "motion", "visual storytelling"],
+  development: ["websites", "web apps", "automation", "interactive UI"],
+  currentDirection: "creative technology",
+  philosophy: "Make it useful. Make it memorable. Ship it."
+};
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vaikashhari&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Vaikash GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaikashhari&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Top languages" />
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+**Portfolio** · [vaikash-portfolio.pages.dev](https://vaikash-portfolio.pages.dev/)  
+**Instagram** · [@vaikashhari](https://www.instagram.com/vaikashhari/)  
+**GitHub** · [@vaikashhari](https://github.com/vaikashhari)  
+**Email** · [vaikash.hari@gmail.com](mailto:vaikash.hari@gmail.com)
+
+<br/>
+
+> **Engineering discipline. Creative execution. Digital systems.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vaikashhari&label=PROFILE+VIEWS&style=flat-square" alt="Profile views" />
+
+</div>
