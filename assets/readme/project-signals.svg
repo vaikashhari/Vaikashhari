@@ -1,0 +1,50 @@
+<svg width="1200" height="480" viewBox="0 0 1200 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Selected GitHub Projects</title>
+<desc id="desc">Selected projects by Vaikash S across cinematic web, client platforms and creative tooling.</desc>
+<rect width="1200" height="480" rx="22" fill="#090C12"/>
+<rect x="24" y="24" width="1152" height="432" rx="17" stroke="#3D4855"/>
+<text x="48" y="70" fill="#F2F5F7" font-size="28" font-family="'Segoe UI', Arial" font-weight="800">SELECTED // PROJECT SIGNALS</text>
+<text x="48" y="98" fill="#718292" font-size="15" font-family="Consolas, monospace">CINEMATIC WEB // CLIENT SYSTEMS // CREATIVE EXPERIMENTS</text>
+
+<g transform="translate(48 132)">
+ <rect width="340" height="132" rx="16" fill="#0B141A" stroke="#2D7B9E"/>
+ <text x="20" y="29" fill="#76D6FA" font-size="14" font-family="Consolas, monospace">PROJECT_01</text>
+ <text x="20" y="64" fill="#FFFFFF" font-size="25" font-family="'Segoe UI', Arial" font-weight="800">ZELORA</text>
+ <text x="20" y="93" fill="#A8B7C0" font-size="14" font-family="'Segoe UI', Arial">Clinic website + digital platform.</text>
+</g>
+
+<g transform="translate(430 132)">
+ <rect width="340" height="132" rx="16" fill="#101020" stroke="#6559C7"/>
+ <text x="20" y="29" fill="#CBC4FF" font-size="14" font-family="Consolas, monospace">PROJECT_02</text>
+ <text x="20" y="64" fill="#FFFFFF" font-size="25" font-family="'Segoe UI', Arial" font-weight="800">AVENGERS: DOOMSDAY</text>
+ <text x="20" y="93" fill="#B1ACC9" font-size="14" font-family="'Segoe UI', Arial">Scroll-directed cinematic experiment.</text>
+</g>
+
+<g transform="translate(812 132)">
+ <rect width="340" height="132" rx="16" fill="#111313" stroke="#59706F"/>
+ <text x="20" y="29" fill="#C9DDDC" font-size="14" font-family="Consolas, monospace">PROJECT_03</text>
+ <text x="20" y="64" fill="#FFFFFF" font-size="25" font-family="'Segoe UI', Arial" font-weight="800">GOT EXPERIENCE</text>
+ <text x="20" y="93" fill="#AEC0BF" font-size="14" font-family="'Segoe UI', Arial">Interactive themed web experience.</text>
+</g>
+
+<g transform="translate(48 286)">
+ <rect width="340" height="132" rx="16" fill="#111013" stroke="#6B594B"/>
+ <text x="20" y="29" fill="#E1C7B6" font-size="14" font-family="Consolas, monospace">PROJECT_04</text>
+ <text x="20" y="64" fill="#FFFFFF" font-size="25" font-family="'Segoe UI', Arial" font-weight="800">BATCOMPUTER</text>
+ <text x="20" y="93" fill="#BAAAA0" font-size="14" font-family="'Segoe UI', Arial">Batman-inspired tactical interface.</text>
+</g>
+
+<g transform="translate(430 286)">
+ <rect width="340" height="132" rx="16" fill="#12110D" stroke="#776C42"/>
+ <text x="20" y="29" fill="#E4D59A" font-size="14" font-family="Consolas, monospace">PROJECT_05</text>
+ <text x="20" y="64" fill="#FFFFFF" font-size="25" font-family="'Segoe UI', Arial" font-weight="800">HARRY POTTER</text>
+ <text x="20" y="93" fill="#BEB38E" font-size="14" font-family="'Segoe UI', Arial">Luxury parchment themed experience.</text>
+</g>
+
+<g transform="translate(812 286)">
+ <rect width="340" height="132" rx="16" fill="#0F1118" stroke="#4E67A5"/>
+ <text x="20" y="29" fill="#C5D2FF" font-size="14" font-family="Consolas, monospace">PROJECT_06</text>
+ <text x="20" y="64" fill="#FFFFFF" font-size="25" font-family="'Segoe UI', Arial" font-weight="800">PRESET STORE</text>
+ <text x="20" y="93" fill="#A8B0C8" font-size="14" font-family="'Segoe UI', Arial">Secure digital preset commerce.</text>
+</g>
+</svg>
